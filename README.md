@@ -10,7 +10,7 @@ AI Facial Recognition
 - [Usage](#-usage)
 - [Running the Project](#-running-the-project)
 - [Screenshots](#-screenshots)
-- [Report](#report)
+- [Report](#-report)
 ---
 
 ## 📚 Project Overview
