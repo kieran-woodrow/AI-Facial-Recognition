@@ -23,12 +23,11 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
  ![AGPL License](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
- ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-
 ## 💻 IDE
 
  ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+  ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 ## 📝 Installation
@@ -57,14 +56,14 @@ For ease, this project has a make file.
 
 Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
-![When you run the program](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
+![When you run the program](https://github.com/Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
 
-![Some data displayed](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
+![Some data displayed](https://github.com/kieran-wlation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
 
-![Car parts efficienty table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
+![Car parts efficienty table](https://github.co-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
 
-![Map of race](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.20.png))
+![Map of race](https://github.com/kieran-woodrots/Screenshot%202024-06-05%20at%2003.30.20.png))
 
-![Results table](https://github.com/kieran-woodrow/F1-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.56.png))
+![Results table](h%20at%2003.30.56.png))
 
 ---
