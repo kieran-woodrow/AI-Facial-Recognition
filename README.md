@@ -2,23 +2,24 @@
 AI Facial Recognition
 
 ---
-## 🗂️ Table of Contents
+## 🗂️ Table Of Contents
 
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Running the Project](#running-the-project)
-- [Screenshots](#screenshots)
+- [Project Overview](#-project-overview)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Running the Project](#-running-the-project)
+- [Screenshots](#-screenshots)
 - [Report](#report)
 ---
 
-## :books: Project Overview
+## 📚 Project Overview
 This is an AI project that involves using PCA to extract representative features of image datasets in a lower-dimensional feature space and using Neural Networks(NN) to classify the images
 It was implemented using the backpropagation learning algorithm for pattern classification. The single layer Neural Networks wastrained on the transformed lower dimensional PCA representation.
 
 ---
 
-## :hammer_and_wrench: Technology Stack 
+## 🛠️ Technology Stack 
 
 ### Project code language used
 
@@ -48,7 +49,7 @@ Use Jupyter Notebook
 
 ---
 
-## 🏃🏻‍♂️ Running the Project
+## 🏃🏻‍♂️ Running The Project
 
 1. Open project and run AIFaces.ipynb 
 
