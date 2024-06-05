@@ -60,7 +60,7 @@ Include screenshots to help users understand what the project looks like. You ca
 
 ![Results before PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/faces2.pdf))
 
-![Results before PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/faces.pdf))
+![Results after PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/faces.pdf))
 
 ![Snippet in code](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.47.27.png))
 
