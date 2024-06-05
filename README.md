@@ -25,6 +25,8 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
  ![AGPL License](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+ ![AGPL License](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ## 💻 IDE
 
  ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
