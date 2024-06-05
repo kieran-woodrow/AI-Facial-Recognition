@@ -28,7 +28,7 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
  ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-  ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 ## 📝 Installation
@@ -71,4 +71,4 @@ Include screenshots to help users understand what the project looks like. You ca
 ---
 
 ## 📝 Report
-report
+![report](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Report.pdf)
