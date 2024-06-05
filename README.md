@@ -9,6 +9,7 @@ AI Facial Recognition
 - [Usage](#usage)
 - [Running the Project](#running-the-project)
 - [Screenshots](#screenshots)
+- [Report](#report)
 ---
 
 ## :books: Project Overview
@@ -37,6 +38,7 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 3. **Install dependencies:**
    Install python and python dependencies.
    Install Jupyter Notebook.
+   Download the Skikit_learn_data facial data set 
 
 ---
 
@@ -67,3 +69,6 @@ Include screenshots to help users understand what the project looks like. You ca
 ![Results table](h%20at%2003.30.56.png))
 
 ---
+
+## 📝 Report
+report
