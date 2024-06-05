@@ -28,7 +28,7 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
  ![AGPL License](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-  ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ ![AGPL License](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 ## 📝 Installation
@@ -58,17 +58,17 @@ Use Jupyter Notebook
 
 Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
-![When you run the program](https://github.com/Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.23.png))
+![Results before PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/faces2.pdf)
 
-![Some data displayed](https://github.com/kieran-wlation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.29.43.png))
+![Results after PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/faces.pdf)
 
-![Car parts efficienty table](https://github.co-Simulation/blob/main/Assets/Screenshot%202024-06-05%20at%2003.30.35.png))
+![Snippet in code](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.47.27.png)
 
-![Map of race](https://github.com/kieran-woodrots/Screenshot%202024-06-05%20at%2003.30.20.png))
+![Line of best fit for PCA](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.47.52.png)
 
-![Results table](h%20at%2003.30.56.png))
+![Training accuracy results table](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2004.48.25.png)
 
 ---
 
 ## 📝 Report
-report
+![report](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Report.pdf)
