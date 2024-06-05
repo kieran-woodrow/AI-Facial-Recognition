@@ -8,7 +8,7 @@ AI Facial Recognition
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Running the Project](#-running-the-project)
+- [Running The Project](#-running-the-project)
 - [Screenshots](#-screenshots)
 - [Report](#-report)
 ---
