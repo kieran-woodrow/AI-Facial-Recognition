@@ -33,9 +33,9 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
 ## 📝 Installation
 
-1. **Clone the repository:**
-2. **Navigate to the project directory:**
-3. **Install dependencies:**
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
    Install python and python dependencies.
    Install Jupyter Notebook.
    Download the Skikit_learn_data facial data set 
@@ -55,8 +55,6 @@ Use Jupyter Notebook
 ---
 
 ## 📷 Screenshots
-
-Include screenshots to help users understand what the project looks like. You can add images using the following format:
 
 ![Results before PCA algorithm](https://github.com/kieran-woodrow/AI-Facial-Recognition/blob/main/Assets/Screenshot%202024-06-05%20at%2005.26.07.png)
 
