@@ -42,7 +42,7 @@ It was implemented using the backpropagation learning algorithm for pattern clas
 
 ## 🎮 Usage
 
-For ease, this project has a make file. 
+Use Jupyter Notebook
 
 ---
 
